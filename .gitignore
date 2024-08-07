@@ -1,3 +1,6 @@
+# 파일 업로드 폴더
+/uploads
+
 # compiled output
 /dist
 /node_modules
